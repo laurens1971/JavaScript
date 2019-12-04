@@ -1,2 +1,5 @@
 # JavaScript
-JavaScript + HTML + CSS
+
+This is a collection of JavaScript + HTML + CSS
+
+
